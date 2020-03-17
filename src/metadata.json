@@ -1,6 +1,6 @@
 {
-  "name": "Remove Poweroff Action Button",
-  "description": "Remove Poweroff Action Button from gnome-shell's statusArea/aggregateMenu",
-  "uuid": "RemovePoweroffActionButton@pratap.fastmail.fm",
+  "name": "enableDisableStatusMenuIcons",
+  "description": "This Gnome extension remove the icons _settingsAction ,_powerOffItem , _suspendAction from the Status area Indicator menu (upper right corner)",
+  "uuid": "enableDisableStatusMenuIcons@jasseral",
   "shell-version": ["3.28", "3.32", "3.34"]
 }
