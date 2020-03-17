@@ -5,7 +5,7 @@ This Gnome extension remove the icons "_settingsAction","_powerOffItem" , "_susp
 This extension was created for running in Ubuntu 18.04, but must be work for 19.04 and 19.10 as well
 
 # Previous requirements
-Do you need insatll 
+1) sudo apt install gnome-shell-extensions
 
 
 # How to install
